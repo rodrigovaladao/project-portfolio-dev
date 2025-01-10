@@ -16,4 +16,16 @@
   --gray-400: #878ea1;
   --gray-500: #c0c4ce;
   --gray-600: #e2e4e9;
+
+  font-family-asap: "Asap", serif;
+  --title-lg: 800 56px/120% var(--font-family-asap);
+  --title-md: 800 24px/120% var(--font-family-asap);
+  --title-sm: 800 16px/120% var(--font-family-asap);
+
+  font-family-inconsolata: "Inconsolata", serif;
+  --subtitle: 400 20px/120% var(--font-family-inconsolata);
+
+  font-family-maven: "Maven Pro", serif;
+  --text-md: 400 16px/140% var(--font-family-maven);
+  --text-sm: 400 14px/140% var(--font-family-maven);
 }
