@@ -2,7 +2,7 @@
 
 Welcome to **Project Portfolio Dev**, a desktop portfolio website designed specifically for developers to showcase their projects and provide contact information in an engaging and professional manner.
 
-![Project Thumbnail](assets/thumbnail.png)
+![Project Thumbnail](assets/Thumbnail.png)
 
 🌐 **[Live Demo](https://rodrigovaladao.github.io/project-portfolio-dev/)**
 
