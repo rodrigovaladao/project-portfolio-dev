@@ -26,6 +26,7 @@ Welcome to **Project Portfolio Dev**, a desktop portfolio website designed speci
 
 ## 📂 Project Structure
 
+```
 PROJECT-PORTFOLIO-DEV/
 ├── .vscode/ # VS Code configuration files
 │ └── settings.json # Editor settings
@@ -46,6 +47,7 @@ PROJECT-PORTFOLIO-DEV/
 ├── .gitignore # Git ignore file
 ├── index.html # Main HTML file
 └── README.md # Project documentation
+```
 
 ## 📞 Contact
 
